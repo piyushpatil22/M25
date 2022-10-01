@@ -1,7 +1,6 @@
-package Package2;
+package com.cg.Package2;
 
-//importing the package in order to access its methods and members
-import Package1.package1Main;
+import com.cg.Package1.package1Main;
 
 public class package2Main {
 

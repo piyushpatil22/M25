@@ -1,4 +1,4 @@
-package Abstraction;
+package com.cg.Abstraction;
 
 class Gold{
 	//this is a default defined var

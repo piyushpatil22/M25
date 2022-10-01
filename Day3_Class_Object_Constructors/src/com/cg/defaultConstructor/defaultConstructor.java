@@ -1,4 +1,4 @@
-package defaultConstructor;
+package com.cg.defaultConstructor;
 
 
 class Rating{

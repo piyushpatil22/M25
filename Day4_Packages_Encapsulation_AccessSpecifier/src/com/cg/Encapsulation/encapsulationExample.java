@@ -1,4 +1,4 @@
-package Encapsulation;
+package com.cg.Encapsulation;
 
 
 //creating a class with a private var

@@ -1,4 +1,4 @@
-package Package1;
+package com.cg.Package1;
 
 //creating a class
 public class package1Main {

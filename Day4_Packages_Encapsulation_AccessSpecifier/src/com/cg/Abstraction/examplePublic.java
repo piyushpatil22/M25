@@ -1,4 +1,4 @@
-package Abstraction;
+package com.cg.Abstraction;
 
 
 //create a class with a public variable 

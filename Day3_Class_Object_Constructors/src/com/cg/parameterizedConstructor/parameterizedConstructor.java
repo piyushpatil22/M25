@@ -1,4 +1,4 @@
-package parameterizedConstructor;
+package com.cg.parameterizedConstructor;
 
 //Scanner class to take input from user
 import java.util.Scanner;

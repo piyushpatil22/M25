@@ -1,4 +1,4 @@
-package parameterizedConstructor;
+package com.cg.parameterizedConstructor;
 
 import java.util.Scanner;
 
