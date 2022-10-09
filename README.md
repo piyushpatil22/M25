@@ -1,4 +1,4 @@
 # M25
 
 
-Practicing Java
+Learning and Practicing Java
